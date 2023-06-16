@@ -1,0 +1,15 @@
+{
+  "name": "ts-calculator",
+  "version": "1.0.0",
+  "description": "working on a basic TypeScript calculator, hoping to learn more about the language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jake Knox",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
